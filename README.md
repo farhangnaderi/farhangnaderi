@@ -1,19 +1,15 @@
-## Aloha 👋
+Aloha 👋
+I'm a robotics researcher focused on underwater perception and control systems. Currently finishing my MS at URI Ocean Engineering, working on deep learning approaches for bathymetric reconstruction from forward-looking sonar.
+What I do:
 
-<!--
-**farhangnaderi/farhangnaderi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+PX4 flight control software maintainer since 2019
+Program Committee member, PX4 Developer Summit 2025
+Building neural networks for sonar data processing
+Underwater robotics, SLAM, and embedded systems
 
-Here are some ideas to get you started:
+Currently:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Defending MS thesis (April 2025) on FLS-based bathymetry
+🔬 Heading to PhD research in underwater robotics
 
-### GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=farhangnaderi&show_icons=true&theme=radical)
+📫 Reach me: info@farhangnaderi.com
