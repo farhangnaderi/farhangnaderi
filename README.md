@@ -9,7 +9,7 @@ Underwater robotics, SLAM, and embedded systems
 
 Currently:
 
-🎓 Defending MS thesis (April 2025) on FLS-based bathymetry
+🎓 Defending MS thesis (June 2026) on FLS-based bathymetry
 🔬 Heading to PhD research in underwater robotics
 
 📫 Reach me: info@farhangnaderi.com
