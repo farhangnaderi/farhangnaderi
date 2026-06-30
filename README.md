@@ -7,9 +7,7 @@ Program Committee member, PX4 Developer Summit 2025
 Building neural networks for sonar data processing
 Underwater robotics, SLAM, and embedded systems
 
-Currently:
-
-🎓 Defending MS thesis (June 2026) on FLS-based bathymetry
-🔬 Heading to PhD research in underwater robotics
+Currently
+🔬 PhD research in underwater robotics
 
 📫 Reach me: info@farhangnaderi.com
